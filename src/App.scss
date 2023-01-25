@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: linear-gradient(135deg, #000111 0%, #000000 100%);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -70,14 +70,14 @@ header .nav {
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
-	border-top: 5px solid #696969;
+	border-top: 5px solid #7A7A7A;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
-	color: white;
+	background-color: #7A7A7A;
+	color: #FFFFFF;
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: transparentize(#525368, 0.95);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -86,7 +86,7 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #7A7A7A;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -95,18 +95,18 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #FFFFFF;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #525368;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #525368;
 	height: 25px;
 }
 
@@ -120,7 +120,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #FFFFFF;
 	overflow: hidden;
 }
 
@@ -245,8 +245,8 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
-	color: white;
+	background-color: #7A7A7A !important;
+	color: #FFFFFF;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -276,7 +276,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-	background: white;
+	background: #FFFFFF;
 }
 
 .bars {
@@ -402,19 +402,19 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: #FFFFFF;
 	text-align: center;
 }
 
 .skill-icon {
 	font-size: 180%;
-	color: white;
+	color: #FFFFFF;
 	text-align: center;
 	position: relative;
 }
 
 footer {
-	background: #1F1F1F;
+	background: linear-gradient(135deg, #000111 0%, #000000 100%);
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
@@ -426,12 +426,12 @@ footer {
 
 footer a,
 footer a:visited {
-	color: #fff;
+	color: #FFFFFF;
 }
 
 footer a:hover,
 footer a:focus {
-	color: #fff;
+	color: #FFFFFF;
 }
 
 .social-links {
