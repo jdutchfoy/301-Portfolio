@@ -38,13 +38,17 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: linear-gradient(135deg, #000111 0%, #000000 100%);
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	padding-top: 150px;
-	padding-bottom: 0;
+	
+
+
+
+
+	background-image: url("https://unsplash.com/photos/HOrhCnQsxnQ");
+	opacity: 0.7;
+	background-position: center;
+	color: black;
+	font-weight:800;
+	font-size: 3vh;
 }
 
 header .nav {
