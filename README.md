@@ -1,6 +1,6 @@
 ## Dutch
 
-https://63d1fb3b42a9be4bfc4a9085--snazzy-horse-90512a.netlify.app/about
+https://app.netlify.com/sites/snazzy-horse-90512a/deploys/63d20f9681c811006c3d58e7
 
  About Me, Skills and Experience, Project Section, Personalize
 
