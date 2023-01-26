@@ -39,8 +39,8 @@
         "startDate": "2022",
         "description": "HTML/CSS picture-perfect mockup",
         "images": [
-          "Pizza II.png",
-          "Pizza III.png"
+          "images/portfolio/Pizza II.png",
+          "images/portfolio/Pizza III.png"
         ],
         "url": "jdutchfoy.github.io/chocolate-pizza/",
         "technologies": [
